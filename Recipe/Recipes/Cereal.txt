@@ -1,0 +1,4 @@
+Cereal
+Milk, Cereal
+Bowl, Spoon
+1.Place the cereal in the bowl.\n2.Pour the milk ontop of the cereal.
